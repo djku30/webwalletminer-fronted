@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/webwalletminer-frontend/static/css/main.da81d7fe.css",
-    "main.js": "/webwalletminer-frontend/static/js/main.ef22e58d.js",
-    "index.html": "/webwalletminer-frontend/index.html",
-    "main.da81d7fe.css.map": "/webwalletminer-frontend/static/css/main.da81d7fe.css.map",
-    "main.ef22e58d.js.map": "/webwalletminer-frontend/static/js/main.ef22e58d.js.map"
+    "main.css": "/webwalletminer-fronted/static/css/main.da81d7fe.css",
+    "main.js": "/webwalletminer-fronted/static/js/main.ef22e58d.js",
+    "index.html": "/webwalletminer-fronted/index.html",
+    "main.da81d7fe.css.map": "/webwalletminer-fronted/static/css/main.da81d7fe.css.map",
+    "main.ef22e58d.js.map": "/webwalletminer-fronted/static/js/main.ef22e58d.js.map"
   },
   "entrypoints": [
     "static/css/main.da81d7fe.css",
